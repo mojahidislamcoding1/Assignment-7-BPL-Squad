@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Virat_Kohli_portrait.jpg",
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "batsman",
+    "rating": {
+      "batting": "right-hand-bat",
+      "bowling": "off spin"
+    },
+    "price": 2000000
+  },
+  {
+    "id": 2,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Babar_Azam.png",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "batsman",
+    "rating": {
+      "batting": "right-hand-bat",
+      "bowling": "right-arm-off-break"
+    },
+    "price": 1800000
+  },
+  {
+    "id": 3,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Smith_Cricketer.jpg",
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "batsman",
+    "rating": {
+      "batting": "right-hand-bat",
+      "bowling": "leg spin"
+    },
+    "price": 1700000
+  },
+  {
+    "id": 4,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kane_Williamson.jpg",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "batsman",
+    "rating": {
+      "batting": "right-hand-bat",
+      "bowling": "right-arm-off-break"
+    },
+    "price": 1600000
+  },
+  {
+    "id": 5,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shakib_Al_Hasan_%281%29.jpg",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "all-rounder",
+    "rating": {
+      "batting": "left-hand-bat",
+      "bowling": "left-arm orthodox"
+    },
+    "price": 1900000
+  },
+  {
+    "id": 6,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos_Buttler_in_2023.jpg",
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "wicketkeeper",
+    "rating": {
+      "batting": "right-hand-bat",
+      "bowling": "right-arm-medium"
+    },
+    "price": 1750000
+  },
+  {
+    "id": 7,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rashid_Khan.jpg",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "bowler",
+    "rating": {
+      "batting": "right-hand-bat",
+      "bowling": "leg spin"
+    },
+    "price": 1500000
+  },
+  {
+    "id": 8,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rabada.jpg",
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "role": "bowler",
+    "rating": {
+      "batting": "left-hand-bat",
+      "bowling": "right-arm-fast"
+    },
+    "price": 1400000
+  },
+  {
+    "id": 9,
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trent_Boult.jpg",
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "bowler",
+    "rating": {
+      "batting": "left-hand-bat",
+      "bowling": "left-arm-fast"
+    },
+    "price": 1350000
+  }
+]
