@@ -50,4 +50,4 @@ To run this project locally:
    npm run dev
    ```
 
-   ## Live link : 
+   ## Live link : https://bpldream11player.netlify.app
